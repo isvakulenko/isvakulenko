@@ -1,11 +1,14 @@
-### Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Всем привет! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Ivan. I'm junior frontend developer. 👋
+Меня зовут Иван. I'm junior frontend developer. 👋
 
- -  Yandex.Practicum student
+  -  Студент Яндекс.Практикума, Веб-разработчик плюс;
+ -  Студент Яндекс.Практикума, Веб-разработчик плюс;
  
+:toolbox:Мой стек 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,ts)](https://skillicons.dev):hammer
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,ts)](https://skillicons.dev):hammer
+:bar_chart:Моя статистика 
 
 <!--
 **isvakulenko/isvakulenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
