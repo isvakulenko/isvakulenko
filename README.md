@@ -5,7 +5,7 @@ My name is Ivan. I'm junior frontend develiper. 👋
  -  Yandex.Practicum student
  
 
- [![My Skills]:hammer (https://skills.thijs.gg/icons?i=HTML,CSS,JS&theme=light)](https://skills.thijs.gg)
+ [![My Skills](https://skills.thijs.gg/icons?i=HTML,CSS,JS&theme=light)](https://skills.thijs.gg)
 
 <!--
 **isvakulenko/isvakulenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
