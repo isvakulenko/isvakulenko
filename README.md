@@ -2,14 +2,15 @@
 
 Меня зовут Иван. 👋
 
-  - Начинающий веб-разработчик;
+ - Начинающий веб-разработчик;
  - Студент Яндекс.Практикума, Веб-разработчик плюс;
  
 :toolbox:Мой стек 
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,ts)](https://skillicons.dev)
 
 :bar_chart:Моя статистика 
-
+[![isvakulenko github stats](https://github-readme-stats.vercel.app/api?username=isvakulenko&show_icons=true&theme=cobalt)](https://github.com/isvakulenko?tab=repositories)
 <!--
 **isvakulenko/isvakulenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
