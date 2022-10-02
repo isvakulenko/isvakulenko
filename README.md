@@ -1,12 +1,12 @@
 ### Всем привет! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Меня зовут Иван. I'm junior frontend developer. 👋
+Меня зовут Иван. 👋
 
-  -  Студент Яндекс.Практикума, Веб-разработчик плюс;
- -  Студент Яндекс.Практикума, Веб-разработчик плюс;
+  - Начинающий веб-разработчик;
+ - Студент Яндекс.Практикума, Веб-разработчик плюс;
  
 :toolbox:Мой стек 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,ts)](https://skillicons.dev):hammer
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,ts)](https://skillicons.dev)
 
 :bar_chart:Моя статистика 
 
