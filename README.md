@@ -11,8 +11,9 @@
 
 :bar_chart:Моя статистика 
 
-[![isvakulenko github stats](https://github-readme-stats.vercel.app/api?username=isvakulenko&show_icons=true&theme=cobalt)](https://github.com/isvakulenko?tab=repositories)
+[![isvakulenko github stats](https://github-readme-stats.vercel.app/api?username=isvakulenko&show_icons=true&line_height=24&hide_border=true&theme=nord)](https://github.com/isvakulenko?tab=repositories)
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isvakulenko&bg_color=-45,0e1420,1e2430&count_private=true&border_radius=15&border_color=2e3440&layout=compact&card_width=250&hide_border=true&theme=nord&cache_seconds=1800)
+
 <!--
 **isvakulenko/isvakulenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
