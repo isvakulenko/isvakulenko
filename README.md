@@ -1,13 +1,13 @@
 ### Всем привет! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Меня зовут Иван.
+##Меня зовут Иван. Я начинающий веб-разработчик.
 
- - Начинающий веб-разработчик;
- - Студент Яндекс.Практикума, Веб-разработчик плюс;
+  - Студент Яндекс.Практикума, курс Веб-разработчик плюс;
+  - Люблю волейбол, велосипед, беговые лыжи;
  
 :toolbox:Мой стек 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,react,redux,ts,git)](https://skillicons.dev)
 
 :bar_chart:Моя статистика 
 
