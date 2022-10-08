@@ -13,9 +13,11 @@
 :toolbox:Мой стек 
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,react,redux,ts,git)](https://skillicons.dev)\
-<div align="center">![BEM](https://img.shields.io/badge/-BEM-%23282C34?style=flat-square&logo=bem)
-![React Router](https://img.shields.io/badge/-ReactRouter-%23282C34?style=flat-square&logo=react-router)
-![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)</div>
+<div align="center">
+<a href="">![BEM](https://img.shields.io/badge/-BEM-%23282C34?style=flat-square&logo=bem)</a>
+<a href="">![React Router](https://img.shields.io/badge/-ReactRouter-%23282C34?style=flat-square&logo=react-router)</a>
+<a href="">![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)</a>
+ </div>
 
 
 :bar_chart:Моя статистика 
