@@ -18,6 +18,13 @@
 <a href="">![React Router](https://img.shields.io/badge/-ReactRouter-%23282C34?style=flat-square&logo=react-router)</a>
 <a href="">![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)</a>
  </div>
+<div align="center">
+
+  <a href="">![example1](https://img.shields.io/badge/example-one-red)</a>
+  <a href="">![example2](https://img.shields.io/badge/example-two-green)</a>
+  <a href="">![example3](https://img.shields.io/badge/example-three-blue)</a>
+
+</div>
 
 
 :bar_chart:Моя статистика 
